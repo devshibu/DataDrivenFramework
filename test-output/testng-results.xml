@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" total="8" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SuiteOne" duration-ms="41025" started-at="2015-05-23T15:51:20Z" finished-at="2015-05-23T15:52:01Z">
+    <groups>
+    </groups>
+    <test name="SuiteOneCaseOne" duration-ms="17714" started-at="2015-05-23T15:51:20Z" finished-at="2015-05-23T15:51:38Z">
+      <class name="SuiteOne.SuiteOneCaseOne">
+        <test-method status="PASS" signature="checkCaseToRun()[pri:0, instance:SuiteOne.SuiteOneCaseOne@71e7a66b]" name="checkCaseToRun" is-config="true" duration-ms="56" started-at="2015-05-23T11:51:20Z" finished-at="2015-05-23T11:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCaseToRun -->
+        <test-method status="PASS" signature="SuiteOneCaseOneTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SuiteOne.SuiteOneCaseOne@71e7a66b]" name="SuiteOneCaseOneTest" duration-ms="13686" started-at="2015-05-23T11:51:20Z" data-provider="SuiteOneCaseOneData" finished-at="2015-05-23T11:51:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteOneCaseOneTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:SuiteOne.SuiteOneCaseOne@71e7a66b]" name="reporterDataResults" is-config="true" duration-ms="5" started-at="2015-05-23T11:51:34Z" finished-at="2015-05-23T11:51:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SuiteOneCaseOneTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SuiteOne.SuiteOneCaseOne@71e7a66b]" name="SuiteOneCaseOneTest" duration-ms="3419" started-at="2015-05-23T11:51:34Z" data-provider="SuiteOneCaseOneData" finished-at="2015-05-23T11:51:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteOneCaseOneTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:SuiteOne.SuiteOneCaseOne@71e7a66b]" name="reporterDataResults" is-config="true" duration-ms="3" started-at="2015-05-23T11:51:38Z" finished-at="2015-05-23T11:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:SuiteOne.SuiteOneCaseOne@71e7a66b]" name="closeBrowser" is-config="true" duration-ms="54" started-at="2015-05-23T11:51:38Z" finished-at="2015-05-23T11:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- SuiteOne.SuiteOneCaseOne -->
+    </test> <!-- SuiteOneCaseOne -->
+    <test name="SuiteOneCaseTwo" duration-ms="23233" started-at="2015-05-23T15:51:38Z" finished-at="2015-05-23T15:52:01Z">
+      <class name="SuiteOne.SuiteOneCaseTwo">
+        <test-method status="PASS" signature="checkSuiteToRun()[pri:0, instance:SuiteOne.SuiteOneCaseTwo@2aafb23c]" name="checkSuiteToRun" is-config="true" duration-ms="512" started-at="2015-05-23T11:51:20Z" finished-at="2015-05-23T11:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteToRun -->
+        <test-method status="PASS" signature="checkCaseToRun()[pri:0, instance:SuiteOne.SuiteOneCaseTwo@2aafb23c]" name="checkCaseToRun" is-config="true" duration-ms="15" started-at="2015-05-23T11:51:38Z" finished-at="2015-05-23T11:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCaseToRun -->
+        <test-method status="PASS" signature="SuiteOneCaseTwoTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SuiteOne.SuiteOneCaseTwo@2aafb23c]" name="SuiteOneCaseTwoTest" duration-ms="19499" started-at="2015-05-23T11:51:38Z" data-provider="SuiteOneCaseTwoData" finished-at="2015-05-23T11:51:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteOneCaseTwoTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:SuiteOne.SuiteOneCaseTwo@2aafb23c]" name="reporterDataResults" is-config="true" duration-ms="7" started-at="2015-05-23T11:51:58Z" finished-at="2015-05-23T11:51:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="FAIL" signature="SuiteOneCaseTwoTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SuiteOne.SuiteOneCaseTwo@2aafb23c]" name="SuiteOneCaseTwoTest" duration-ms="3278" started-at="2015-05-23T11:51:58Z" data-provider="SuiteOneCaseTwoData" finished-at="2015-05-23T11:52:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-3]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+ActualResult Value -2 And ExpectedResult Value -3 Not Match]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+ActualResult Value -2 And ExpectedResult Value -3 Not Match
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:38)
+	at SuiteOne.SuiteOneCaseTwo.SuiteOneCaseTwoTest(SuiteOneCaseTwo.java:99)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1220)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteOneCaseTwoTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:SuiteOne.SuiteOneCaseTwo@2aafb23c]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2015-05-23T11:52:01Z" finished-at="2015-05-23T11:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:SuiteOne.SuiteOneCaseTwo@2aafb23c]" name="closeBrowser" is-config="true" duration-ms="78" started-at="2015-05-23T11:52:01Z" finished-at="2015-05-23T11:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- SuiteOne.SuiteOneCaseTwo -->
+    </test> <!-- SuiteOneCaseTwo -->
+  </suite> <!-- SuiteOne -->
+  <suite name="Calc Suite" duration-ms="0" started-at="2015-05-23T15:52:40Z" finished-at="2015-05-23T15:52:40Z">
+    <groups>
+    </groups>
+  </suite> <!-- Calc Suite -->
+  <suite name="SuiteTwo" duration-ms="36944" started-at="2015-05-23T15:52:01Z" finished-at="2015-05-23T15:52:38Z">
+    <groups>
+    </groups>
+    <test name="SuiteTwoCaseOne" duration-ms="18201" started-at="2015-05-23T15:52:01Z" finished-at="2015-05-23T15:52:19Z">
+      <class name="SuiteTwo.SuiteTwoCaseOne">
+        <test-method status="PASS" signature="checkCaseToRun()[pri:0, instance:SuiteTwo.SuiteTwoCaseOne@6ad5c04e]" name="checkCaseToRun" is-config="true" duration-ms="58" started-at="2015-05-23T11:52:01Z" finished-at="2015-05-23T11:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCaseToRun -->
+        <test-method status="PASS" signature="SuiteTwoCaseOneTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SuiteTwo.SuiteTwoCaseOne@6ad5c04e]" name="SuiteTwoCaseOneTest" duration-ms="15458" started-at="2015-05-23T11:52:01Z" data-provider="SuiteTwoCaseOneData" finished-at="2015-05-23T11:52:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteTwoCaseOneTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:SuiteTwo.SuiteTwoCaseOne@6ad5c04e]" name="reporterDataResults" is-config="true" duration-ms="2" started-at="2015-05-23T11:52:17Z" finished-at="2015-05-23T11:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SuiteTwoCaseOneTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SuiteTwo.SuiteTwoCaseOne@6ad5c04e]" name="SuiteTwoCaseOneTest" duration-ms="2267" started-at="2015-05-23T11:52:17Z" data-provider="SuiteTwoCaseOneData" finished-at="2015-05-23T11:52:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteTwoCaseOneTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:SuiteTwo.SuiteTwoCaseOne@6ad5c04e]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2015-05-23T11:52:19Z" finished-at="2015-05-23T11:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:SuiteTwo.SuiteTwoCaseOne@6ad5c04e]" name="closeBrowser" is-config="true" duration-ms="67" started-at="2015-05-23T11:52:19Z" finished-at="2015-05-23T11:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- SuiteTwo.SuiteTwoCaseOne -->
+    </test> <!-- SuiteTwoCaseOne -->
+    <test name="SuiteTwoCaseTwo" duration-ms="18712" started-at="2015-05-23T15:52:19Z" finished-at="2015-05-23T15:52:38Z">
+      <class name="SuiteTwo.SuiteTwoCaseTwo">
+        <test-method status="PASS" signature="checkSuiteToRun()[pri:0, instance:SuiteTwo.SuiteTwoCaseTwo@357246de]" name="checkSuiteToRun" is-config="true" duration-ms="17" started-at="2015-05-23T11:52:01Z" finished-at="2015-05-23T11:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteToRun -->
+        <test-method status="PASS" signature="checkCaseToRun()[pri:0, instance:SuiteTwo.SuiteTwoCaseTwo@357246de]" name="checkCaseToRun" is-config="true" duration-ms="23" started-at="2015-05-23T11:52:19Z" finished-at="2015-05-23T11:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCaseToRun -->
+        <test-method status="PASS" signature="SuiteTwoCaseTwoTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SuiteTwo.SuiteTwoCaseTwo@357246de]" name="SuiteTwoCaseTwoTest" duration-ms="15261" started-at="2015-05-23T11:52:19Z" data-provider="SuiteTwoCaseTwoData" finished-at="2015-05-23T11:52:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteTwoCaseTwoTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:SuiteTwo.SuiteTwoCaseTwo@357246de]" name="reporterDataResults" is-config="true" duration-ms="2" started-at="2015-05-23T11:52:35Z" finished-at="2015-05-23T11:52:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="FAIL" signature="SuiteTwoCaseTwoTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SuiteTwo.SuiteTwoCaseTwo@357246de]" name="SuiteTwoCaseTwoTest" duration-ms="2838" started-at="2015-05-23T11:52:35Z" data-provider="SuiteTwoCaseTwoData" finished-at="2015-05-23T11:52:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+ActualResult Value 2.5 And ExpectedResult Value 2.0 Not Match]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+ActualResult Value 2.5 And ExpectedResult Value 2.0 Not Match
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:38)
+	at SuiteTwo.SuiteTwoCaseTwo.SuiteTwoCaseTwoTest(SuiteTwoCaseTwo.java:97)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1220)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteTwoCaseTwoTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:SuiteTwo.SuiteTwoCaseTwo@357246de]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2015-05-23T11:52:38Z" finished-at="2015-05-23T11:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:SuiteTwo.SuiteTwoCaseTwo@357246de]" name="closeBrowser" is-config="true" duration-ms="48" started-at="2015-05-23T11:52:38Z" finished-at="2015-05-23T11:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- SuiteTwo.SuiteTwoCaseTwo -->
+    </test> <!-- SuiteTwoCaseTwo -->
+  </suite> <!-- SuiteTwo -->
+</testng-results>
