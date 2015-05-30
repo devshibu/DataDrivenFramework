@@ -191,7 +191,7 @@ public class SuiteBase {
 		try{
 			return driver.findElement(By.partialLinkText(Object.getProperty(Key)));
 		}catch(Throwable t){
-			Add_Log.debug("Object not found for key --"+Key);
+			Add_Log.debug("Object not found for key ----"+Key);
 			return null;
 		}
 	}
